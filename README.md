@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rajesh!
 
-Welcome to my GitHub space 🚀 I'm a **DevOps Engineer** passionate about designing **scalable, automated, and secure cloud solutions** using Azure Cloud, Terraform, and CI/CD pipelines.
+I'm a **DevOps Engineer** passionate about designing **scalable, automated, and secure cloud solutions** using Azure Cloud, Terraform, and CI/CD pipelines.
 
 I love solving real-world problems by bridging development and operations — creating systems that are fast, reliable, and easy to maintain.
 
