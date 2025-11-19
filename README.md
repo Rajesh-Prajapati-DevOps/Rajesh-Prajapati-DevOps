@@ -52,18 +52,6 @@ I enjoy working at the intersection of development and operations, where I can:
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajeshPrajapati\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshPrajapati\&layout=compact\&theme=radical)
-
-> ⚠️ *Replace username above after you finalise your GitHub username.*
-
----
-
 ## 🔗 Connect with Me
 
 * 💼 **LinkedIn:** [rajesh-prajapati-devops](https://www.linkedin.com/in/rajesh-prajapati-devops)
